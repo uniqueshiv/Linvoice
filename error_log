@@ -1,0 +1,1 @@
+[01-Aug-2017 05:33:20 UTC] PHP Fatal error:  Class 'App\ModelNotFoundException' not found in /home/paltani/public_html/invoease.com/app/Invoice.php on line 33
